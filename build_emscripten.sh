@@ -6,4 +6,4 @@ then
 fi
 
 emcmake cmake .
-emcmake make
+make

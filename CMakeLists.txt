@@ -1,6 +1,7 @@
+cmake_minimum_required(VERSION 3.0)
+
 project(basisu)
 
-cmake_minimum_required(VERSION 3.0)
 option(STATIC "static linking" FALSE)
 option(SAN "sanitize" FALSE)
 
